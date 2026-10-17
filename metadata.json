@@ -1,0 +1,6 @@
+{
+  "name": "PkgHub - Termux & Linux Package Registry & Explorer",
+  "description": "Comprehensive Termux and Linux package explorer with categorization, search, installation commands, static JSON export, and GitHub Pages deployment guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
